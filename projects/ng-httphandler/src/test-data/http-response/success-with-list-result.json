@@ -1,0 +1,79 @@
+{
+	"errorCode": 0,
+	"errorMessage": "Get users success.",
+	"data": {
+		"result": [
+			{
+				"userId": 200,
+				"cname": "Administrator",
+				"userName": "admin",
+				"userType": 1,
+				"desc": "Administrator 預設帳號 ",
+				"status": 1,
+				"roles": [
+					{
+						"roleId": 200,
+						"roleName": "super"
+					}
+				]
+			},
+			{
+				"userId": 201,
+				"cname": "OP",
+				"userName": "op",
+				"userType": 1,
+				"desc": "OP 預設帳號",
+				"status": 1,
+				"roles": [
+					{
+						"roleId": 201,
+						"roleName": "op"
+					}
+				]
+			},
+			{
+				"userId": 202,
+				"cname": "API",
+				"userName": "api",
+				"userType": 1,
+				"desc": "API 預設帳號 ",
+				"status": 1,
+				"roles": [
+					{
+						"roleId": 202,
+						"roleName": "api"
+					}
+				]
+			},
+			{
+				"userId": 203,
+				"cname": "jessica",
+				"userName": "jessica",
+				"userType": 1,
+				"desc": "",
+				"status": 1,
+				"roles": [
+					{
+						"roleId": 200,
+						"roleName": "super"
+					}
+				]
+			},
+			{
+				"userId": 265,
+				"cname": "aaaa",
+				"userName": "aaaa",
+				"userType": 1,
+				"desc": "",
+				"status": 1,
+				"roles": [
+					{
+						"roleId": 200,
+						"roleName": "super"
+					}
+				]
+			}
+		],
+		"amount": 5
+	}
+}

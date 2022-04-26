@@ -1,0 +1,15 @@
+{
+  "errorCode": 0,
+  "errorMessage": "Success",
+  "data" : {
+    "amount": 1,
+    "result": [
+      {
+        "errorCode": 0,
+        "errorMessage": "Success",
+        "targetId": 200,
+        "targetName": "Test 1"
+      }
+    ]
+  }
+}

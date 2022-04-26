@@ -1,0 +1,15 @@
+{
+  "errorCode": 66001,
+  "errorMessage": "Error",
+  "data" : {
+    "amount": 1,
+    "result": [
+      {
+        "errorCode": 66001,
+        "errorMessage": "Error",
+        "targetId": 200,
+        "targetName": "Test 1"
+      }
+    ]
+  }
+}

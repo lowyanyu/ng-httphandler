@@ -1,0 +1,16 @@
+{
+  "headers": {
+      "normalizedNames": {},
+      "lazyUpdate": null,
+      "headers": {}
+  },
+  "status": 0,
+  "statusText": "Unknown Error",
+  "url": "https://127.0.0.1:3100/rest/server/info",
+  "ok": false,
+  "name": "HttpErrorResponse",
+  "message": "Http failure response for https://127.0.0.1:3100/rest/server/info: 0 Unknown Error",
+  "error": {
+      "isTrusted": true
+  }
+}

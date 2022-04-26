@@ -1,0 +1,13 @@
+{
+  "headers": {
+      "normalizedNames": {},
+      "lazyUpdate": null
+  },
+  "status": 404,
+  "statusText": "Not Found",
+  "url": "http://127.0.0.1:3100/rest/server/infos",
+  "ok": false,
+  "name": "HttpErrorResponse",
+  "message": "Http failure response for http://127.0.0.1:3100/rest/server/infos: 404 Not Found",
+  "error": "<!DOCTYPE html>\n<html lang=\"en\">\n<head>\n<meta charset=\"utf-8\">\n<title>Error</title>\n</head>\n<body>\n<pre>Cannot GET /rest/server/infos</pre>\n</body>\n</html>\n"
+}

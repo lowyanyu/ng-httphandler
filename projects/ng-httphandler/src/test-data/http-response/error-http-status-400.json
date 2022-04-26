@@ -1,0 +1,16 @@
+{
+  "headers": {
+      "normalizedNames": {},
+      "lazyUpdate": null
+  },
+  "status": 400,
+  "statusText": "Bad Request",
+  "url": "http://127.0.0.1:3100/rest/server/info",
+  "ok": false,
+  "name": "HttpErrorResponse",
+  "message": "Http failure response for http://127.0.0.1:3100/rest/server/info: 400 Bad Request",
+  "error": {
+      "errorCode": 66001,
+      "errorMessage": "Get server info fail."
+  }
+}

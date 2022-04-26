@@ -1,0 +1,13 @@
+{
+  "headers": {
+      "normalizedNames": {},
+      "lazyUpdate": null
+  },
+  "status": 403,
+  "statusText": "Forbidden",
+  "url": "http://127.0.0.1:3100/rest/server/info",
+  "ok": false,
+  "name": "HttpErrorResponse",
+  "message": "Http failure response for http://127.0.0.1:3100/rest/server/info: 403 Forbidden",
+  "error": {}
+}
